@@ -1,3 +1,14 @@
+## Hi! I'm Junhao. 👋
+
+### Interests 🌟
+
+- Machine Learning
+
+- Software Engineering
+
+- Data Analytics
+
+
 ### GitHub Stats 🌟
 
 <center>
