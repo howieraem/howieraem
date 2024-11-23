@@ -26,6 +26,7 @@ Worked/studied in 🇨🇦 🇺🇸 🇦🇺 🇨🇳 🇭🇰
 <a href="https://onnx.ai/"><img src="https://img.shields.io/badge/-ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"></a>
 <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></a>
 <a href="https://opencv.org"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
+<a href="https://www.gurobi.com/"><img src="https://img.shields.io/badge/-Gurobi-EE3524?style=for-the-badge&logo=gurobi&logoColor=white"></a>
 
 <h3 align="left">Databases</h3>
 <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
