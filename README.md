@@ -27,11 +27,6 @@ Worked/studied in 🇨🇦 🇺🇸 🇦🇺 🇨🇳 🇭🇰
 <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></a>
 <a href="https://opencv.org"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
 
-<h3 align="left">Backend Development Frameworks</h3>
-<a href="https://spring.io/"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
-<a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
-<a href="https://rubyonrails.org"><img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"></a>
-
 <h3 align="left">Databases</h3>
 <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
@@ -40,6 +35,11 @@ Worked/studied in 🇨🇦 🇺🇸 🇦🇺 🇨🇳 🇭🇰
 <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 <a href="https://neo4j.com"><img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"></a>
 <a href="https://aws.amazon.com/dynamodb/"><img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"></a>
+
+<h3 align="left">Backend Development Frameworks</h3>
+<a href="https://spring.io/"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
+<a href="https://rubyonrails.org"><img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"></a>
 
 <h3 align="left">Frontend Development Frameworks</h3>
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
