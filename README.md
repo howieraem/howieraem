@@ -67,7 +67,7 @@ Worked/studied in 🇨🇦 🇺🇸 🇦🇺 🇨🇳 🇭🇰
     <tr>
         <td>
           <a>
-          <img height="200px" align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howieraem&count-private=true&layout=compact&langs_count=8&hide=hack,assembly,html,makefile,css,scss,scilab&hide_border=true" />
+          <img height="200px" align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howieraem&count-private=true&layout=compact&langs_count=6&hide=hack,assembly,html,makefile,css,scss,scilab&hide_border=true" />
           </a>
         </td>
    </tr>
