@@ -2,9 +2,6 @@
 
 Worked/studied in 🇨🇦 🇺🇸 🇦🇺 🇨🇳 🇭🇰
 
-
-### Skills 🌟
-
 <h3 align="left">Programming Languages</h3>
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
 <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white"></a>
