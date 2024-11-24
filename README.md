@@ -21,8 +21,11 @@ Worked/studied in 🇨🇦 🇺🇸 🇦🇺 🇨🇳 🇭🇰
 <a href="https://matplotlib.org"><img src="https://img.shields.io/badge/Matplotlib-%231f77b4.svg?style=for-the-badge&logo=plotly&logoColor=black"></a>
 <a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
 <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+<a href="https://hadoop.apache.org/"><img src="https://img.shields.io/badge/-Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white"></a>
 <a href="https://spark.apache.org/"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"></a>
 <a href="https://flink.apache.org/"><img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white"></a>
+<a href="https://prestodb.io/"><img src="https://img.shields.io/badge/-Presto-5890FF?style=for-the-badge&logo=presto&logoColor=white"></a>
+<a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"></a>
 <a href="https://onnx.ai/"><img src="https://img.shields.io/badge/-ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"></a>
 <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></a>
 <a href="https://opencv.org"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
@@ -51,8 +54,9 @@ Worked/studied in 🇨🇦 🇺🇸 🇦🇺 🇨🇳 🇭🇰
 
 <h3 align="left">DevOps</h3>
 <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white"></a>
-<a href="https://cloud.google.com"><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+<a href="https://cloud.google.com"><img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 <a href="https://www.docker.com"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+<a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white"></a>
 <a href="https://www.heroku.com"><img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"></a>
 
 <h3 align="left">Tools</h3>
