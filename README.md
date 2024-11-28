@@ -49,7 +49,7 @@ Worked/studied in 🇨🇦 🇺🇸 🇦🇺 🇨🇳 🇭🇰
 
 <h3 align="left">Frontend Development Frameworks</h3>
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
-<a href="https://mui.com/material-ui/"><img src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"></a>
+<a href="https://mui.com/material-ui/"><img src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"></a>
 <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a href="https://jquery.com"><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"></a>
 
