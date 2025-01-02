@@ -1,6 +1,4 @@
-## Hi! I'm Junhao. 👋
-
-Worked/studied in 🇨🇦 🇺🇸 🇦🇺 🇨🇳 🇭🇰
+## Hi! I'm J Lin. 👋
 
 <h3 align="left">Programming Languages</h3>
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
