@@ -15,6 +15,7 @@ Studied / worked in 🇺🇸 🇦🇺 🇨🇳 🇭🇰
 <a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
 <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html"><img src="https://img.shields.io/badge/Shell-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
 <a href="https://www.ruby-lang.org/en/"><img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"></a>
+<a href="https://www.typescriptlang.org/"><img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge"></a>
 
 <h3 align="left">Machine Learning / AI / Data Science / Analytics</h3>
 <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
@@ -78,7 +79,7 @@ Studied / worked in 🇺🇸 🇦🇺 🇨🇳 🇭🇰
     <tr>
         <td>
           <a>
-          <img height="200px" align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howieraem&count-private=true&layout=compact&langs_count=8&hide=hack,assembly,html,makefile,css,scss,scilab&hide_border=true" />
+          <img height="200px" align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howieraem&count-private=true&layout=compact&langs_count=8&hide=jupyter%20notebook,hack,assembly,html,makefile,css,scss,scilab&hide_border=true" />
           </a>
         </td>
    </tr>
