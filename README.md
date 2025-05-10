@@ -1,4 +1,4 @@
-## Hi! I'm J Lin. 👋
+## Hi! I'm Junhao. 👋
 
 Currently in 🇨🇦 
 
